@@ -1,2 +1,2 @@
 # valuationmodels
-valuationmodels  - based on Ashwath Damodaran's notes
+valuationmodels  - based on Aswath Damodaran's notes
